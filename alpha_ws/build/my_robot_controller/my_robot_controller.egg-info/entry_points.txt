@@ -1,0 +1,6 @@
+[console_scripts]
+alpha_node = my_robot_controller.node1:main
+circle_node = my_robot_controller.drawcircle:main
+control_turtle = my_robot_controller.robotcontroller:main
+pose_subscribe = my_robot_controller.pose_sub:main
+
