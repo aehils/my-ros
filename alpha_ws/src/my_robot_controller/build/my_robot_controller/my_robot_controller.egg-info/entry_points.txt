@@ -1,4 +1,0 @@
-[console_scripts]
-alpha_node = my_robot_controller.node1:main
-circle_node = my_robot_controller.drawcircle:main
-
