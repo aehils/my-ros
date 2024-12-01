@@ -1,0 +1,22 @@
+[0.440s] Invoking command in '/home/elishaokara.linux/alpha_ws/build/my_robot_controller': PYTHONPATH=/home/elishaokara.linux/alpha_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/elishaokara.linux/alpha_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.556s] running develop
+[0.557s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.557s]   warnings.warn(
+[0.648s] running egg_info
+[0.649s] writing my_robot_controller.egg-info/PKG-INFO
+[0.649s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.649s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.650s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.650s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.651s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.652s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.652s] running build_ext
+[0.653s] Creating /home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.653s] Installing alpha_node script to /home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/my_robot_controller
+[0.653s] Installing circle_node script to /home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/my_robot_controller
+[0.653s] Installing control_turtle script to /home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/my_robot_controller
+[0.653s] Installing pose_subscribe script to /home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/my_robot_controller
+[0.653s] 
+[0.653s] Installed /home/elishaokara.linux/alpha_ws/build/my_robot_controller
+[0.654s] running symlink_data
+[0.669s] Invoked command in '/home/elishaokara.linux/alpha_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/elishaokara.linux/alpha_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elishaokara.linux/alpha_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/elishaokara.linux/alpha_ws/build/my_robot_controller/build --no-deps symlink_data
