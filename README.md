@@ -1,2 +1,3 @@
 # my-ros
-## Documentation in progress...
+
+Development paused, pending hardware acquisition.
